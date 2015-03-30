@@ -1,0 +1,134 @@
+PCBNEW-LibModule-V1  Mon 30 Mar 2015 12:39:42 AM CEST
+# encoding utf-8
+Units mm
+$INDEX
+ESP-08v2
+$EndINDEX
+$MODULE ESP-08v2
+Po 0 0 0 15 55187C71 00000000 ~~
+Li ESP-08v2
+Sc 0
+AR /5508AE7F
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "U8"
+T1 0 -3 1 1 0 0.15 N V 21 N "ESP-08v2"
+DS -8 -8 -8 -8.5 0.15 21
+DS -8 -8.5 8 -8.5 0.15 21
+DS 8 -8.5 8 -8 0.15 21
+DS -8 8 -8 8.5 0.15 21
+DS -8 8.5 8 8.5 0.15 21
+DS 8 8.5 8 8 0.15 21
+$PAD
+Sh "1" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.2 -7
+$EndPAD
+$PAD
+Sh "2" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.2 -5
+$EndPAD
+$PAD
+Sh "3" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.2 -3
+$EndPAD
+$PAD
+Sh "4" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.2 -1
+$EndPAD
+$PAD
+Sh "5" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.2 1
+$EndPAD
+$PAD
+Sh "6" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.2 3
+$EndPAD
+$PAD
+Sh "7" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.2 5
+$EndPAD
+$PAD
+Sh "8" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.2 7
+$EndPAD
+$PAD
+Sh "9" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.2 7
+$EndPAD
+$PAD
+Sh "10" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.2 5
+$EndPAD
+$PAD
+Sh "11" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.2 3
+$EndPAD
+$PAD
+Sh "12" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.2 1
+$EndPAD
+$PAD
+Sh "13" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.2 -1
+$EndPAD
+$PAD
+Sh "14" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.2 -3
+$EndPAD
+$PAD
+Sh "15" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.2 -5
+$EndPAD
+$PAD
+Sh "16" O 2 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.2 -7
+$EndPAD
+$EndMODULE ESP-08v2
+$EndLIBRARY
